@@ -20,9 +20,11 @@ Built AI-assisted WhatsApp and Telegram workflows for a repair and rental busine
 
 ### [Cherry on Top — Multilingual Commerce Website](case-studies/cherry-on-top/README.md)
 
-Developed a multilingual dessert storefront with order submission, custom cake inquiries, order status, inventory integration, and a protected manager interface.
+Created a multilingual dessert storefront using AI-assisted development, with order submission, custom cake inquiries, order status, inventory integration, and a protected manager interface.
 
 **Project technologies:** HTML · CSS · JavaScript · TypeScript · Next.js API routes · Supabase · Vercel
+
+**My approach:** AI-assisted website development and project delivery. The technical stack below describes the product, not a claim of independently writing its JavaScript or TypeScript code.
 
 **Project scope:** customer-facing website, backend APIs, order flows, inventory operations, and deployment preparation.
 
