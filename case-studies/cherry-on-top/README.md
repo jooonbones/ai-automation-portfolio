@@ -16,6 +16,16 @@ Created a multilingual commerce website with AI-assisted code generation and ite
 
 The repository confirms a **HTML/CSS/JavaScript storefront** with **Next.js/TypeScript server routes** and **Supabase** integration. The deployment configuration targets **Vercel**. The entire storefront should not be described as a React UI: the main customer interface is implemented as static frontend assets.
 
+## Visual walkthrough
+
+The following screenshots were captured from the project's Vercel-hosted preview at `cherry-on-top-gray.vercel.app` on October 19, 2026. They show the real storefront UI, not mockups. The original captures can be supplied separately; they have not yet been uploaded to this repository.
+
+1. **Homepage:** Russian-language storefront with branded hero, category navigation, custom cake promotions, and featured sections.
+2. **Dietary desserts category:** Product-listing modal showing thumbnails, prices in AZN, and out-of-stock indicators.
+3. **Product details:** Black Forest cake detail modal with product image, price, ingredients accordion, quantity selector, and unavailable-state ordering control.
+
+**Live website:** [cherryontopbaku.az](https://cherryontopbaku.az)
+
 ## Key capabilities
 
 - Responsive catalog with Azerbaijani, Russian, and English language support.
