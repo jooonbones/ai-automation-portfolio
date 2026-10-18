@@ -3,7 +3,7 @@
 **Project type:** Commercial website and backend integration  
 **Industry:** Desserts and custom cakes  
 **Status:** Completed commercial client delivery  
-**Role:** Website development, business-process integration, and deployment preparation
+**Role:** AI-assisted website creation and delivery; integration and deployment preparation
 
 ## Business challenge
 
@@ -11,7 +11,7 @@ A dessert business needed a customer-facing catalog and ordering experience alon
 
 ## Solution
 
-Built a multilingual commerce website with a product catalog, shopping cart, order requests, custom-cake photo handling, and a manager-facing order and inventory interface.
+Created a multilingual commerce website with AI-assisted code generation and iteration. The resulting solution includes a product catalog, shopping cart, order requests, custom-cake photo handling, and a manager-facing order and inventory interface.
 
 The repository confirms a **HTML/CSS/JavaScript storefront** with **Next.js/TypeScript server routes** and **Supabase** integration. The deployment configuration targets **Vercel**. The entire storefront should not be described as a React UI: the main customer interface is implemented as static frontend assets.
 
@@ -25,6 +25,10 @@ The repository confirms a **HTML/CSS/JavaScript storefront** with **Next.js/Type
 - Supabase-backed order and inventory operations.
 - Abuse-prevention measures: request rate limits, security headers, and optional bot verification.
 - Automated repository checks for selected business and security behaviors.
+
+## Development approach
+
+This was an **AI-assisted development project**. I used AI tools to help create the website rather than writing all of its JavaScript and TypeScript code independently. The technologies below describe the implemented product and should not be interpreted as a list of programming languages I claim to know professionally.
 
 ## Technology stack
 
