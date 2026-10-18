@@ -1,7 +1,7 @@
 # Samir Aliyev
-### AI Automation & Integration Developer
+### Junior AI Automation & Integration Specialist
 
-I build practical digital solutions for businesses: AI-assisted customer communication, n8n workflow automation, API integrations, and web applications.
+I work on practical business automation and integration projects using n8n and AI-assisted development tools. My portfolio includes customer messaging automation and a commercial website built with extensive AI assistance.
 
 **Focus:** AI automation · Business integrations · Customer messaging · API workflows  
 **Location:** Bishkek, Kyrgyzstan · Open to international employment and project collaborations
@@ -12,11 +12,11 @@ This portfolio presents selected commercial work. Client credentials, private wo
 
 ### [TEZ-TEZ — AI Customer Service Automation](case-studies/tez-tez/README.md)
 
-Built AI-assisted WhatsApp and Telegram workflows for a repair and rental business, integrating OpenAI-assisted messaging and LiveSklad repair-status lookups, with escalation to managers.
+Developed and refined WhatsApp and Telegram workflows with extensive AI assistance for a repair and rental business, integrating OpenAI-assisted messaging and LiveSklad repair-status lookups, with escalation to managers.
 
 **Stack:** n8n · OpenAI API · LiveSklad · WhatsApp · Telegram · DigitalOcean
 
-**Responsibilities:** workflow orchestration, service and rental inquiry flows, repair-status lookup, manager handoff, and handover preparation.
+**Development approach:** extensive AI assistance for n8n workflow design and troubleshooting. Project scope included service and rental inquiry flows, repair-status lookup, manager handoff, testing, and handover preparation.
 
 ### [Cherry on Top — Multilingual Commerce Website](case-studies/cherry-on-top/README.md)
 
