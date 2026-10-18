@@ -4,7 +4,7 @@
 I build practical digital solutions for businesses: AI-assisted customer communication, n8n workflow automation, API integrations, and web applications.
 
 **Focus:** AI automation · Business integrations · Customer messaging · API workflows  
-**Location:** Bishkek, Kyrgyzstan · Open to remote collaboration
+**Location:** Bishkek, Kyrgyzstan · Open to international employment and project collaborations
 
 This portfolio presents selected commercial work. Client credentials, private workflow exports, customer data, and proprietary assets are not published.
 
@@ -26,7 +26,7 @@ Developed a multilingual dessert storefront with order submission, custom cake i
 
 **Responsibilities:** customer-facing website, backend APIs, order flows, inventory operations, and deployment preparation.
 
-## What I can help with
+## What I can contribute
 
 - AI-assisted messaging for customer support and lead handling
 - n8n automations and third-party API integrations
