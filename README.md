@@ -22,9 +22,9 @@ Built AI-assisted WhatsApp and Telegram workflows for a repair and rental busine
 
 Developed a multilingual dessert storefront with order submission, custom cake inquiries, order status, inventory integration, and a protected manager interface.
 
-**Stack:** HTML · CSS · JavaScript · TypeScript · Next.js API routes · Supabase · Vercel
+**Project technologies:** HTML · CSS · JavaScript · TypeScript · Next.js API routes · Supabase · Vercel
 
-**Responsibilities:** customer-facing website, backend APIs, order flows, inventory operations, and deployment preparation.
+**Project scope:** customer-facing website, backend APIs, order flows, inventory operations, and deployment preparation.
 
 ## What I can contribute
 
@@ -32,7 +32,7 @@ Developed a multilingual dessert storefront with order submission, custom cake i
 - n8n automations and third-party API integrations
 - Telegram and WhatsApp business workflows
 - Order, inventory, and repair-service process integrations
-- Business websites and backend API development
+- Business website delivery and integration projects
 
 ## Confidentiality
 
