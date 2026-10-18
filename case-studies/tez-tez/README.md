@@ -3,7 +3,7 @@
 **Project type:** Commercial AI automation and business integration  
 **Industry:** Repair and equipment rental  
 **Status:** Working project prepared for client handover (October 2026)  
-**Role:** Workflow development, integration, testing, and handover preparation
+**Role:** AI-assisted n8n workflow creation and iteration, integration work, testing, and handover preparation
 
 ## Business challenge
 
@@ -11,7 +11,7 @@ Customer questions arrive through different messaging channels. Employees need a
 
 ## Solution
 
-Developed AI-assisted customer-service workflows for **WhatsApp and Telegram**, orchestrated through **n8n**.
+Created and refined customer-service workflows for **WhatsApp and Telegram** using **n8n** and extensive AI assistance for workflow design, implementation guidance, and troubleshooting.
 
 The solution connects messaging channels with OpenAI-assisted response handling and **LiveSklad** repair-status data. Cases that need human follow-up are routed to a manager through Telegram notifications.
 
@@ -23,6 +23,10 @@ The solution connects messaging channels with OpenAI-assisted response handling 
 - Routes appropriate customer requests for manager follow-up.
 - Uses n8n to coordinate message-handling and integration steps.
 - Runs on DigitalOcean-hosted automation infrastructure, as documented in project handover materials.
+
+## Development approach
+
+The workflows were built with substantial support from AI tools. This case study describes a real commercial automation project and does not claim that every technical component was developed independently without AI assistance.
 
 ## Technology stack
 
