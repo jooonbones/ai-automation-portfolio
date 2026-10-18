@@ -20,7 +20,7 @@ Developed and refined WhatsApp and Telegram workflows with extensive AI assistan
 
 ### [Cherry on Top — Multilingual Commerce Website](case-studies/cherry-on-top/README.md)
 
-**Project website:** [cherryontopbaku.az](https://cherryontopbaku.az) *(URL provided; live availability not independently verified)*
+**View the website:** [cherryontopbaku.az](https://cherryontopbaku.az)
 
 Created a multilingual dessert storefront using AI-assisted development, with order submission, custom cake inquiries, order status, inventory integration, and a protected manager interface.
 
