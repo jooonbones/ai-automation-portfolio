@@ -21,13 +21,13 @@ The repository confirms a **HTML/CSS/JavaScript storefront** with **Next.js/Type
 Real screenshots captured from the Cherry on Top storefront (October 2026). No mockups or stock images.
 
 ### Homepage
-![Cherry on Top — actual storefront homepage](screenshots/01-homepage.jpg)
+![Cherry on Top — actual storefront homepage](screenshots/01-homepage.webp)
 
 ### Dietary desserts category
-![Cherry on Top — actual dietary desserts category listing](screenshots/02-category-view.jpg)
+![Cherry on Top — actual dietary desserts category listing](screenshots/02-category-view.webp)
 
 ### Product details
-![Cherry on Top — actual Black Forest cake product detail](screenshots/03-product-detail.jpg)
+![Cherry on Top — actual Black Forest cake product detail](screenshots/03-product-detail.webp)
 
 **Live website:** [cherryontopbaku.az](https://cherryontopbaku.az)
 
