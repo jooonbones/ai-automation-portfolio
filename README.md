@@ -40,4 +40,5 @@ These case studies describe confirmed implementation scope. Live demos, performa
 
 ## Connect
 
-Professional contact information and LinkedIn profile will be added here when finalized.
+- **[LinkedIn — Samir Aliyev](https://www.linkedin.com/in/%D1%81%D0%B0%D0%BC%D0%B8%D1%80-%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2-451727438/)**
+- **[GitHub profile](https://github.com/jooonbones)**
