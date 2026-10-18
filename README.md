@@ -1,39 +1,43 @@
-# AI Automation & Integration — Portfolio
+# Samir Aliyev
+### AI Automation & Integration Developer
 
-I build practical digital solutions for businesses: AI-assisted customer communication, workflow automation, API integrations, and customer-facing web experiences.
+I build practical digital solutions for businesses: AI-assisted customer communication, n8n workflow automation, API integrations, and web applications.
 
-This portfolio highlights selected commercial projects. Client credentials, production workflow exports, customer data, and proprietary assets are not publicly shared.
+**Focus:** AI automation · Business integrations · Customer messaging · API workflows  
+**Location:** Bishkek, Kyrgyzstan · Open to remote collaboration
 
-## Featured projects
+This portfolio presents selected commercial work. Client credentials, private workflow exports, customer data, and proprietary assets are not published.
+
+## Selected commercial projects
 
 ### [TEZ-TEZ — AI Customer Service Automation](case-studies/tez-tez/README.md)
 
-AI-assisted messaging workflows for a repair and rental business, combining WhatsApp and Telegram with business-system integrations and manager handoff.
+Built AI-assisted WhatsApp and Telegram workflows for a repair and rental business, integrating OpenAI-assisted messaging and LiveSklad repair-status lookups, with escalation to managers.
 
-**Technologies:** n8n · OpenAI API · LiveSklad · Telegram · WhatsApp · DigitalOcean
+**Stack:** n8n · OpenAI API · LiveSklad · WhatsApp · Telegram · DigitalOcean
 
-**Scope:** incoming message processing, repair-status lookup, repair/rental inquiry routing, manager notifications, and deployment/handover preparation.
+**Responsibilities:** workflow orchestration, service and rental inquiry flows, repair-status lookup, manager handoff, and handover preparation.
 
 ### [Cherry on Top — Multilingual Commerce Website](case-studies/cherry-on-top/README.md)
 
-A commercial storefront for a dessert business with a multilingual catalog, order workflows, custom-cake requests, and a protected operations interface.
+Developed a multilingual dessert storefront with order submission, custom cake inquiries, order status, inventory integration, and a protected manager interface.
 
-**Technologies:** HTML · CSS · JavaScript · TypeScript · Next.js API routes · Supabase · Vercel
+**Stack:** HTML · CSS · JavaScript · TypeScript · Next.js API routes · Supabase · Vercel
 
-**Scope:** storefront, cart and order requests, order status, custom-order photo flow, inventory management, and manager tools.
+**Responsibilities:** customer-facing website, backend APIs, order flows, inventory operations, and deployment preparation.
 
-## What I work with
+## What I can help with
 
-- AI integrations and customer-support automation
-- n8n workflows and API-based business integrations
-- WhatsApp and Telegram messaging workflows
-- Full-stack web delivery and backend services
-- Operational security basics, handover, and documentation
+- AI-assisted messaging for customer support and lead handling
+- n8n automations and third-party API integrations
+- Telegram and WhatsApp business workflows
+- Order, inventory, and repair-service process integrations
+- Business websites and backend API development
 
-## Project confidentiality
+## Confidentiality
 
-These case studies describe verified functionality and architecture. Private source code, automation exports, tokens, contact details, and business information are excluded. Public demos or screenshots will be added only when approved and verified.
+These case studies describe confirmed implementation scope. Live demos, performance metrics, screenshots, and full source code will only be shared where verified and authorized.
 
-## Contact
+## Connect
 
-LinkedIn and professional contact details will be added after the portfolio profile is finalized.
+Professional contact information and LinkedIn profile will be added here when finalized.
