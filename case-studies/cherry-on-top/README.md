@@ -1,6 +1,6 @@
 # Cherry on Top — Multilingual Commerce Website
 
-**Project website:** [cherryontopbaku.az](https://cherryontopbaku.az) *(URL provided; live availability not independently verified)*  
+**View the website:** [cherryontopbaku.az](https://cherryontopbaku.az)  
 **Project type:** Commercial website and backend integration  
 **Industry:** Desserts and custom cakes  
 **Status:** Completed commercial client delivery  
@@ -64,7 +64,7 @@ flowchart LR
 
 ## Scope clarification
 
-This case study does not claim an integrated online-payment gateway, a measurable revenue increase, or any unverified traffic/conversion result. The project website URL was supplied by the project creator; its availability could not be independently verified. Screenshots will be added after access and publication permission are confirmed.
+This case study does not claim an integrated online-payment gateway, a measurable revenue increase, or any unverified traffic/conversion result. The project website was provided by the project creator, who confirms that it is accessible. Portfolio screenshots can be added after reviewing them for privacy and client publication permission.
 
 ## Confidentiality
 
